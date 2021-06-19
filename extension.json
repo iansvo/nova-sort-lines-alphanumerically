@@ -5,9 +5,9 @@
     "description": "Adds a simple editor command to sort lines alphanumerically.",
     "version": "1.0",
     "categories": ["commands"],    
-    "main": "main.js",    
-    "activationEvents": [
-    ],    
+    "main": "main.js",   
+    "bugs": "https://github.com/iansvo/nova-sort-lines-alphanumerically/issues", 
+    "activationEvents": [],    
     "entitlements": {},
     "commands": {
         "editor": [
