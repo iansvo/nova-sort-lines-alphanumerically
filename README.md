@@ -3,12 +3,7 @@
 
 
 ### Examples 
-![](Images/extension/screenshot-editor-menu.png)
-
-![](Images/extension/screenshot-command-palette.png)
-
-**Example GIF**
-![](Images/extension/screencap.gif)
+See Images/extension in the repo [here](https://github.com/iansvo/nova-sort-lines-alphanumerically/tree/main/Images/extension). 
 
 ### Usage
 
