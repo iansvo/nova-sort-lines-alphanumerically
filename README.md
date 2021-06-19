@@ -3,12 +3,12 @@
 
 
 ### Examples 
-![](images/extension/screenshot-editor-menu.png)
+![](Images/extension/screenshot-editor-menu.png)
 
-![](images/extension/screenshot-command-palette.png)
+![](Images/extension/screenshot-command-palette.png)
 
 **Example GIF**
-![](images/extension/screencap.gif)
+![](Images/extension/screencap.gif)
 
 ### Usage
 
